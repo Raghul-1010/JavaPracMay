@@ -1,7 +1,7 @@
 public class GitPracticeClass {
     public static void main(String[] args) {
         int a = 10;
-        int b = 30;
+        int b = 40;
         int f= a*b;
         int g = b-a;
         System.out.println(f);
