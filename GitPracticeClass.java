@@ -5,6 +5,7 @@ public class GitPracticeClass {
         int c = 15;
         int f= a*b;
         int g = b-a;
+        int c=23;
         System.out.println(f);
         System.out.println(g);
     }
