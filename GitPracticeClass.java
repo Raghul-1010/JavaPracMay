@@ -1,7 +1,7 @@
 public class GitPracticeClass {
     public static void main(String[] args) {
 
-        int a = 22;
+        int a = 220;
 
         int b = 40;
         int c = 15;
